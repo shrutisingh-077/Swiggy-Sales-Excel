@@ -4,17 +4,17 @@
 The objective of this project is to design an interactive and dynamic sales dashboard in Microsoft Excel to analyze Swiggy’s business performance. The dashboard helps track key metrics such as total sales, total orders, customer ratings, average order value, city-wise sales, and sales trends over time. It enables users to gain actionable insights, identify growth opportunities, and support data-driven business decisions through visual reports and slicers.
 
 ## Key Highlights:
-• Total Sales: ₹53.01M
-• Total Orders: 197.43K
-• Average Rating: 4.34 ⭐
-• Average Order Value: ₹268.51
+- Total Sales: ₹53.01M
+- Total Orders: 197.43K
+- Average Rating: 4.34 ⭐
+- Average Order Value: ₹268.51
 
 ## Dashboard Features:
-• Monthly, Weekly & Daily Sales Trend Analysis
-• Top 5 Cities by Sales Performance
-• Veg vs Non-Veg Sales Distribution
-• Interactive Filters for Month, Category & Restaurant
-• Clean and user-friendly dashboard design
+- Monthly, Weekly & Daily Sales Trend Analysis
+- Top 5 Cities by Sales Performance
+- Veg vs Non-Veg Sales Distribution
+- Interactive Filters for Month, Category & Restaurant
+- Clean and user-friendly dashboard design
 
 ## Tools Used:
 - Microsoft Excel 
